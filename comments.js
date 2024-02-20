@@ -1,4 +1,4 @@
-// Create a web server for comments
+// Create server
 // To run this file, execute the following command in the terminal:
 // node comments.js
 // Open a browser and type the following URL:
